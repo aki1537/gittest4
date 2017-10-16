@@ -1,3 +1,3 @@
 <?php
-echo "W";
+echo "W2";
 ?>
